@@ -21,7 +21,7 @@ Whether you are a beginner or an experienced developer, there is a place for you
 
 ### 📫 Connect With Us
 [<img src="https://img.shields.io/badge/Official_Page-4285F4?style=for-the-badge&logo=google&logoColor=white" />](https://gdg.community.dev/gdg-on-campus-marmara-university-istanbul-turkiye/)
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />]([https://instagram.com/gdgmarmara](https://www.instagram.com/gdgoncampus_marmara/))
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/gdgoncampus_marmara/)
 [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/company/gdgoncampusmarmarauni/)
 
 ---
